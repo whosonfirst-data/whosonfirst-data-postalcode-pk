@@ -1,0 +1,55 @@
+{
+  "id": 538920597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"PK",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        85632659,
+        85675735,
+        85632427,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"12743142"
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "disputed_id":85632427,
+            "postalcode_id":538920597,
+            "region_id":85675735
+        },
+        {
+            "country_id":85632469,
+            "disputed_id":85632427,
+            "postalcode_id":538920597,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":538920597,
+    "wof:lastmodified":1460094294,
+    "wof:name":"12100",
+    "wof:parent_id":"85675735",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
